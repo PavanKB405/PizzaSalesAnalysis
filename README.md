@@ -44,5 +44,3 @@ This dashboard is designed for **business analysis** to help:
 * Understand **customer behavior patterns** (seasonality, weekends, order sizes).
 
 ---
-
-Would you like me to also add **setup instructions** (e.g., how to open the `.pbix` file in Power BI and connect to data), so the README is more user-friendly for others who might use your repo?
